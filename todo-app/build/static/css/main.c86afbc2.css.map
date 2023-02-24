@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c86afbc2.css","mappings":"AACA,WACI,qBAAsB,CACtB,iBAAkB,CAGlB,WAAY,CAFZ,YAAa,CACb,WAEJ","sources":["components/todo.css"],"sourcesContent":["\n.input-box{\n    border: 1px solid #ccc;\n    border-radius: 8px;\n    padding: 10px;\n    width: 500px;\n    height: 50px;\n}"],"names":[],"sourceRoot":""}
